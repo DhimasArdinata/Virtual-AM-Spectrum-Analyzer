@@ -1,0 +1,6 @@
+# requirements.txt
+numpy
+matplotlib
+scipy
+sounddevice
+ttkbootstrap
