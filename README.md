@@ -6,7 +6,7 @@ Aplikasi desktop untuk simulasi dan analisis spektrum modulasi Amplitudo (AM) se
 
 ## Tampilan Aplikasi
 
-![Screenshot Aplikasi Virtual AM Spectrum Analyzer](https://i.ibb.co/689cWc5/Screenshot-2024-05-23-143004.png)
+![Screenshot Aplikasi Virtual AM Spectrum Analyzer](https://github.com/DhimasArdinata/Virtual-AM-Spectrum-Analyzer/blob/main/Screenshot%202025-09-07%20022925.png?raw=true)
 
 ## Fitur Utama
 
